@@ -14,5 +14,18 @@ example,
 </html>
 ```
 
+And create collapsed section if necessary
+
+<details><summary>CLICK ME</summary>
+<p>
+
+#### We can hide anything, even code!
+
+    ```ruby
+      puts "Hello World"
+    ```
+
+</p>
+</details>
 
 
